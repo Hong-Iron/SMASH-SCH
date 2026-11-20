@@ -1,0 +1,34 @@
+{
+ "region": "충남 아산시 신창면 읍내리",
+ "nameEn": "Soonchunhyang University",
+ "added": "2026-10-24",
+ "rank": 96,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KNPU",
+   "campus": "경찰대학",
+   "km": 3.2
+  },
+  {
+   "code": "KONGJU-YESAN",
+   "campus": "국립공주대학교 예산캠퍼스",
+   "km": 12.8
+  },
+  {
+   "code": "SUNMOON",
+   "campus": "선문대학교 아산캠퍼스",
+   "km": 13.1
+  },
+  {
+   "code": "HOSEO",
+   "campus": "호서대학교 아산캠퍼스",
+   "km": 13.4
+  },
+  {
+   "code": "U1-ASAN",
+   "campus": "유원대학교 아산캠퍼스",
+   "km": 14.7
+  }
+ ]
+}
